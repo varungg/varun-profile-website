@@ -113,7 +113,7 @@ export const projects = [
     links: []
   },
   {
-    title: "VarBotChat",
+    title: "VarChatBot",
     type: "Open-source RAG chatbot",
     icon: Bot,
     stack: ["Next.js", "React", "Node.js", "Express", "OpenAI GPT", "Pinecone", "FAISS"],
